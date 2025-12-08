@@ -93,9 +93,9 @@
 
 </div>
 
-## Github Stats  
+## TryHackMe Stats  
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=hacker-r3volv3r&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5502858" style='border:none;'></iframe>
 </div>  
 
 <br/>  
