@@ -83,7 +83,7 @@
 <br/>  
 
 
-## Cybersecurity
+## HackTheBox
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 </div>
 
-## TryHackMe Stats  
+## TryHackMe
 <div align="center">
    <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png" alt="thm" />
 </div>  
