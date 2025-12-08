@@ -95,11 +95,11 @@
 
 ## TryHackMe Stats  
 <div align="center">
-   <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5502858" style='border:none;'></>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png" alt="thm" />
 </div>  
 
 <br/>  
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png" alt="thm" />
+  
 </div>  
