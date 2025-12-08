@@ -101,5 +101,5 @@
 <br/>  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacker-r3volv3r&&style=flat-square" align="center" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png" alt="thm" />
 </div>  
