@@ -95,7 +95,7 @@
 
 ## TryHackMe
 <div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png" alt="thm" />
+   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5502858" style='border:none;'></iframe> />
 </div>  
 
 <br/>  
