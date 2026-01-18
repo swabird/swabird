@@ -98,7 +98,7 @@
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5502858" style='border:none;'></iframe>
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png" alt="Your Image Badge" />
+ <img src="https://tryhackme-badges.s3.amazonaws.com/swabird.png](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5502858" alt="Your Image Badge" />
 </div>  
 
 <br/>  
